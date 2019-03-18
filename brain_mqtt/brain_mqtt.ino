@@ -2,8 +2,8 @@
 #include <MQTTClient.h>
 #include <Brain.h>
 
-const char *ssid = "VMF5CB369";
-const char *pass = "c7Rezvjwd3Vs";
+const char *ssid = "your ssid";
+const char *pass = "your wifi pass";
 
 String attention;
 String signalQuality;
@@ -16,8 +16,8 @@ String csvData;
 
 const char *mqtt_name = "brain";
 
-const char *mqtt_id = "f2223ec0";
-const char *mqtt_password = "d0fced214f05e665";
+const char *mqtt_id = "shiftr id";
+const char *mqtt_password = "shiftr password";
 
 WiFiClient net;
 MQTTClient client;
