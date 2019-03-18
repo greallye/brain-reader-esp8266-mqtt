@@ -23,6 +23,10 @@ I used [shiftr](https://shiftr.io/) as my mqtt client. It gives a nice UI to see
 Such as below.
 ![shiftr](docs/shiftr.gif)
 
+You can then use this to communicate with devices and control something over the internet with your brain using the attention stream from this code.
+
+Please check out the brain stem and also the shooter projects on my git for Ideas how this was used. 
+
 
 
 
