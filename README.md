@@ -8,6 +8,7 @@ Whatever NeuroSky chip you have solder wires to the T pin and the common ground.
 Then connect the T pin wire to the RX in on your board in this case a Nodemcu ESP8266 was used.
 
 Below is a picture of the completed build.
+
 <img src="docs/completed.jpg" width="40%">
 
 A 3d printed top will be created in the coming weeks.
