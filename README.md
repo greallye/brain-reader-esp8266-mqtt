@@ -8,7 +8,19 @@ Whatever NeuroSky chip you have solder wires to the T pin and the common ground.
 Then connect the T pin wire to the RX in on your board in this case a Nodemcu ESP8266 was used.
 
 Below is a picture of the completed build.
-![Jira Data Miner Screenshot](docs/completed.jpg)
+![build](docs/completed.jpg)
+
+A 3d printed top will be created in the coming weeks.
+
+### Code
+For this you will need the following libaries for Arduino.
+
+[arduino-mqtt](https://github.com/256dpi/arduino-mqtt)
+[Brain](https://github.com/kitschpatrol/Brain)
+
+I used [shiftr](https://shiftr.io/) as my mqtt client. It gives a nice UI to see your messages sending.
+Such as below.
+![shiftr](docs/shiftr.gif)
 
 
 
