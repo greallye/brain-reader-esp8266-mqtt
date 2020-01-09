@@ -1,5 +1,5 @@
 # brain-reader-esp8266-mqtt
-Arduino code that will read brain activity from a NeuroSky chip to an MQTT provider creating a brain that can control the world. Essentially an Internet of Things bran.:grin:
+Arduino code that will read brain activity from a NeuroSky chip to an MQTT provider creating a brain that can control the world. Essentially an Internet of Things brain.:grin:
 
 ### Build
 For this project a Star Wars Force Trainer headset was used, however the hardware was replaced with an updated NeuroSky chip but the electrodes were kept.
